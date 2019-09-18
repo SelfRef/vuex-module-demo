@@ -15,6 +15,8 @@ status:
 	- Sample
 ---
 
+![Screenshot](docs/screenshot.png)
+
 # Synopsis
 
 Simple proof of concept with comparison of two ways to create Vuex store modules.
