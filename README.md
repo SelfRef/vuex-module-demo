@@ -10,9 +10,7 @@ language: [TypeScript, JavaScript]
 framework: Vue.js
 locale: en_US
 license: MIT
-status:
-	- Stable
-	- Sample
+status: Sample
 ---
 
 ![Screenshot](docs/screenshot.png)
