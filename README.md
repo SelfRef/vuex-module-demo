@@ -4,7 +4,6 @@ category: Software
 create_date: 2019-09
 author: TM
 author_site: timsmanter.net
-project_site: me.timsmanter.net
 editor: Visual Studio Code
 language: [TypeScript, JavaScript]
 framework: Vue.js
