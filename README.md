@@ -1,31 +1,31 @@
 ---
-code_name: TM-W_VUEX-MODULE-POC
-category: Software
 create_date: 2019-09
-author: TM
-author_site: timsmanter.net
-editor: Visual Studio Code
+archive_date: 2019-09
 language: [TypeScript, JavaScript]
-framework: Vue.js
+framework: [Vue.js, Vuex]
+editor: Visual Studio Code
 locale: en_US
 license: MIT
-status: Sample
+category: [PoC, Web]
+dev_status: Archive
 ---
+
+# Vuex vs Vuex Modules use comparison demo/poc
 
 ![Screenshot](docs/screenshot.png)
 
-# Synopsis
+## Description
 
 Simple proof of concept with comparison of two ways to create Vuex store modules.
 Both projects work exactly the same way and have same funcionality.
 Names in the code are preserved where possible in both projects.
 
-# Modules
+## Modules
 
 - vuex-only: Reference project using JavaScript and regular Vuex modules
 - vuex-modules: Reference project using TypeScript, Vue class components and Vuex dynamic class modules
 
-# Run
+## Setup
 
 > NOTE: `npm` can be used instead of `yarn`
 
